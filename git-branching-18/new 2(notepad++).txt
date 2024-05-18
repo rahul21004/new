@@ -6,7 +6,7 @@
 	<title>Home.Page title
 	<head>
 	<body>
-	<hi>Hello This is Home Page
+	<hi>Hello This is Home updated Page
 	</body>
 	</html>
 	
